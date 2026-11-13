@@ -5,3 +5,7 @@ Comunidad de fútbol amateur en Bogotá y Medellín: partidos, canchas, arqueros
 Demo: https://fo-kin12.github.io/goalmatch/
 
 Es una sola página (`index.html`) que funciona en computador y celular. En esta demo pública los datos quedan en el dispositivo de cada persona.
+
+## Documentos
+
+En la carpeta [`documentos`](./documentos) está la presentación del proyecto (PDF) y otros trabajos, con un resumen de cada uno.
